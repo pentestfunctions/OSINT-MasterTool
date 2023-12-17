@@ -51,8 +51,8 @@ Launch the application from the executable created in the dist folder.
 Select the query type from the dropdown menu (Email, Username, Domain, etc.).
 Enter the search query in the provided input field.
 Explore the generated links and use filters for refined search results.
-🤝 Contributing
-Contributions are welcome! Feel free to open pull requests or submit issues for bug reports and feature requests.
+
+- 🤝 Contributions are welcome! Feel free to open pull requests or submit issues for bug reports and feature requests.
 
 📸 Example gif
 <p align="center">
