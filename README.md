@@ -17,6 +17,9 @@
 
 ## 🛠 Installation
 
+- For Windows userse you can download a release here:
+https://github.com/pentestfunctions/OSINT-MasterTool/releases/tag/v0.1
+
 ### Prerequisites
 
 - Python 3.x
