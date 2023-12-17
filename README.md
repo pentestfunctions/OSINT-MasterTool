@@ -58,4 +58,3 @@ Explore the generated links and use filters for refined search results.
 <p align="center">
   <img src="./static/WorkingOSINT.gif" alt="OSINT-MasterTool in action">
 </p>
-```
